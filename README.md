@@ -16,7 +16,6 @@
 - **Bootstrap**
 
 ### 2.2 辅助
-- **jQuery DataTables**
 - **xlsx**
 - **JSZip**
 - **PptxGenJS**
@@ -26,8 +25,6 @@
 - **CsvHelper**
 - **DocumentFormat.OpenXml**
 - **EPPlus**
-- **jquery.datatables**
-- **runtimepack.Microsoft.NETCore.App.Runtime.win-x64**
 
 ---
 
