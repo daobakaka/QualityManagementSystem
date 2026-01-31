@@ -70,8 +70,6 @@
 
 ### 5.1 基本界面
 ![ecf265111a82462b240c14e0990fb26b](https://github.com/user-attachments/assets/d2f5ace8-57b2-4c0f-a074-ad98e884d460)
-
-![登录页面](https://github.com/user-attachments/assets/18403d38-251f-4a6b-bea0-53574e72c3bd)  
 执行基本登录操作，对接企业 CRM 系统，数据相互独立又可联通。
 
 ### 5.2 主要交互
